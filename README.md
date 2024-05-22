@@ -7,3 +7,7 @@ In this assignment, I used Pandas to merge and analyze data from two datasets co
 ## Submission
 
 [Pymaceuticals](Pymaceuticals/pymaceuticals.ipynb)
+
+### Analysis
+
+Based on the provided data, it appears that Ramicane and Capomulin are best at treating this type of cancer. However, because of limitations in the calculations performed, it is not possible to tell if this is because the mice that received these treatments were just smaller than the other mice and therefore more likely to have a smaller tumor.
